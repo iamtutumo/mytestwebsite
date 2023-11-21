@@ -152,7 +152,6 @@ export default {
 			}
 		}
 	},
-	"version": 1,
 	"fonts": {
 		"Plus Jakarta Sans": {
 			"family": "Plus Jakarta Sans",
@@ -177,5 +176,6 @@ export default {
 				]
 			}
 		}
-	}
+	},
+	"version": 8
 }

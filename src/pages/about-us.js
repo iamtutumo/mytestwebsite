@@ -300,24 +300,24 @@ export default (() => {
 				sm-grid-template-columns="1fr"
 			>
 				<Image
-					src="https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=400&q=80"
+					src="https://uploads.quarkly.io/655ccff11d712a00232b9673/images/114380987-accra-ghana-march-4-2012-unidentified-ghanaian-woman-carries-bananas-in-the-street-in-ghana-people.jpg?v=2023-11-21T19:56:59.277Z"
 					object-fit="cover"
 					width="100%"
 					height="100%"
 					grid-column="1 / span 1"
 					border-radius="24px"
-					srcSet="https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=500&q=80 500w,https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=800&q=80 800w,https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1080&q=80 1080w,https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1600&q=80 1600w,https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=2000&q=80 2000w,https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=2600&q=80 2600w,https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=3200&q=80 3200w"
+					srcSet="https://smartuploads.quarkly.io/655ccff11d712a00232b9673/images/114380987-accra-ghana-march-4-2012-unidentified-ghanaian-woman-carries-bananas-in-the-street-in-ghana-people.jpg?v=2023-11-21T19%3A56%3A59.277Z&quality=85&w=500 500w,https://smartuploads.quarkly.io/655ccff11d712a00232b9673/images/114380987-accra-ghana-march-4-2012-unidentified-ghanaian-woman-carries-bananas-in-the-street-in-ghana-people.jpg?v=2023-11-21T19%3A56%3A59.277Z&quality=85&w=800 800w,https://smartuploads.quarkly.io/655ccff11d712a00232b9673/images/114380987-accra-ghana-march-4-2012-unidentified-ghanaian-woman-carries-bananas-in-the-street-in-ghana-people.jpg?v=2023-11-21T19%3A56%3A59.277Z&quality=85&w=1080 1080w,https://smartuploads.quarkly.io/655ccff11d712a00232b9673/images/114380987-accra-ghana-march-4-2012-unidentified-ghanaian-woman-carries-bananas-in-the-street-in-ghana-people.jpg?v=2023-11-21T19%3A56%3A59.277Z&quality=85&w=1600 1600w,https://smartuploads.quarkly.io/655ccff11d712a00232b9673/images/114380987-accra-ghana-march-4-2012-unidentified-ghanaian-woman-carries-bananas-in-the-street-in-ghana-people.jpg?v=2023-11-21T19%3A56%3A59.277Z&quality=85&w=2000 2000w,https://smartuploads.quarkly.io/655ccff11d712a00232b9673/images/114380987-accra-ghana-march-4-2012-unidentified-ghanaian-woman-carries-bananas-in-the-street-in-ghana-people.jpg?v=2023-11-21T19%3A56%3A59.277Z&quality=85&w=2600 2600w,https://smartuploads.quarkly.io/655ccff11d712a00232b9673/images/114380987-accra-ghana-march-4-2012-unidentified-ghanaian-woman-carries-bananas-in-the-street-in-ghana-people.jpg?v=2023-11-21T19%3A56%3A59.277Z&quality=85&w=3200 3200w"
 					sizes="(max-width: 576px) 100vw,(max-width: 768px) 100vw,(max-width: 992px) 100vw,100vw"
 				/>
 				<Image
-					src="https://images.unsplash.com/photo-1525130413817-d45c1d127c42?auto=format&fit=crop&w=800&q=80"
+					src="https://uploads.quarkly.io/655ccff11d712a00232b9673/images/136160137-young-african-woman-selling-tomatoes-in-a-local-african-market-smiling.jpg?v=2023-11-21T19:53:26.319Z"
 					object-fit="cover"
 					width="100%"
 					height="100%"
 					grid-column="2 / span 2"
 					border-radius="24px"
 					sm-grid-column="1 / span 1"
-					srcSet="https://images.unsplash.com/photo-1525130413817-d45c1d127c42?auto=format&fit=crop&w=500&q=80 500w,https://images.unsplash.com/photo-1525130413817-d45c1d127c42?auto=format&fit=crop&w=800&q=80 800w,https://images.unsplash.com/photo-1525130413817-d45c1d127c42?auto=format&fit=crop&w=1080&q=80 1080w,https://images.unsplash.com/photo-1525130413817-d45c1d127c42?auto=format&fit=crop&w=1600&q=80 1600w,https://images.unsplash.com/photo-1525130413817-d45c1d127c42?auto=format&fit=crop&w=2000&q=80 2000w,https://images.unsplash.com/photo-1525130413817-d45c1d127c42?auto=format&fit=crop&w=2600&q=80 2600w,https://images.unsplash.com/photo-1525130413817-d45c1d127c42?auto=format&fit=crop&w=3200&q=80 3200w"
+					srcSet="https://smartuploads.quarkly.io/655ccff11d712a00232b9673/images/136160137-young-african-woman-selling-tomatoes-in-a-local-african-market-smiling.jpg?v=2023-11-21T19%3A53%3A26.319Z&quality=85&w=500 500w,https://smartuploads.quarkly.io/655ccff11d712a00232b9673/images/136160137-young-african-woman-selling-tomatoes-in-a-local-african-market-smiling.jpg?v=2023-11-21T19%3A53%3A26.319Z&quality=85&w=800 800w,https://smartuploads.quarkly.io/655ccff11d712a00232b9673/images/136160137-young-african-woman-selling-tomatoes-in-a-local-african-market-smiling.jpg?v=2023-11-21T19%3A53%3A26.319Z&quality=85&w=1080 1080w,https://smartuploads.quarkly.io/655ccff11d712a00232b9673/images/136160137-young-african-woman-selling-tomatoes-in-a-local-african-market-smiling.jpg?v=2023-11-21T19%3A53%3A26.319Z&quality=85&w=1600 1600w,https://smartuploads.quarkly.io/655ccff11d712a00232b9673/images/136160137-young-african-woman-selling-tomatoes-in-a-local-african-market-smiling.jpg?v=2023-11-21T19%3A53%3A26.319Z&quality=85&w=2000 2000w,https://smartuploads.quarkly.io/655ccff11d712a00232b9673/images/136160137-young-african-woman-selling-tomatoes-in-a-local-african-market-smiling.jpg?v=2023-11-21T19%3A53%3A26.319Z&quality=85&w=2600 2600w,https://smartuploads.quarkly.io/655ccff11d712a00232b9673/images/136160137-young-african-woman-selling-tomatoes-in-a-local-african-market-smiling.jpg?v=2023-11-21T19%3A53%3A26.319Z&quality=85&w=3200 3200w"
 					sizes="(max-width: 576px) 100vw,(max-width: 768px) 100vw,(max-width: 992px) 100vw,100vw"
 				/>
 			</Box>
