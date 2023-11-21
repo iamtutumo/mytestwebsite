@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap-index.xml
+Sitemap: https://fabulous-pegasus-7579b5.netlify.app/sitemap-index.xml

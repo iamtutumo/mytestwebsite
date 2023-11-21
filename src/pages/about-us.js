@@ -41,7 +41,13 @@ export default (() => {
 				md-justify-content="flex-start"
 				lg-justify-content="flex-start"
 			>
-				<LinkBox flex-direction="row" href="/index" display="flex" grid-gap="18px">
+				<LinkBox
+					flex-direction="row"
+					href="/index"
+					display="flex"
+					grid-gap="18px"
+					max-width="fit-content"
+				>
 					<Icon category="gi" icon={GiFairyWings} color="#6d32ec" size="37px" />
 					<Text
 						margin="0"
@@ -64,11 +70,12 @@ export default (() => {
 				lg-width="30%"
 				justify-content="center"
 				lg-justify-content="flex-end"
+				font="50px --fontFamily-googlePlusJakartaSans"
 			>
 				<Override slot="Children" md-display="flex" />
 				<Override
 					slot="Content"
-					padding="0px 0px 0px 0px"
+					padding="0 0px 0px 0px"
 					background="rgba(255, 255, 255, 0)"
 					lg-background="#ffffff"
 					lg-margin="0px 0px 0px 0px"
@@ -242,6 +249,7 @@ export default (() => {
 				lg-width="100%"
 				md-margin="0px 0px 20px 0px"
 				sm-margin="0px 0px 30px 0px"
+				font="normal 400 16px --fontFamily-googlePlusJakartaSans"
 			>
 				<Text
 					margin="0px 0px 0px 0px"
