@@ -230,7 +230,7 @@ export default (() => {
 			</Components.QuarklycommunityKitMobileSidePanel>
 		</Section>
 		<Section
-			background="linear-gradient(0deg,rgba(4, 8, 12, 0.6) 0%,rgba(4, 8, 12, 0.6) 100%),--color-darkL2 url(https://images.unsplash.com/photo-1510125594188-5afc74c8cc43?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80) center/cover"
+			background="linear-gradient(0deg,rgba(4, 8, 12, 0.6) 7.6%,rgba(8, 16, 52, 0.6) 43.3%),--color-darkL2 url(https://uploads.quarkly.io/655ccff11d712a00232b9673/images/pwkb-blog-1024x576.jpg?v=2023-11-21T20:22:03.250Z) center/cover"
 			padding="60px 0"
 			sm-padding="40px 0"
 			color="--light"
@@ -452,7 +452,7 @@ export default (() => {
 				</Box>
 			</Box>
 		</Section>
-		<Section padding="80px 0 90px 0" md-padding="60px 0 60px 0" background="linear-gradient(180deg,rgba(42, 9, 113, 0.7) 0%,rgba(12, 36, 127, 0.7) 100%) 0 0 no-repeat,rgba(0, 0, 0, 0) url(https://uploads.quarkly.io/643d8e6ebf72b300207d7233/images/portrait-strong-brutal-young-man-gray-tones.jpg?v=2023-04-27T16:54:59.782Z) 50% 0/cover repeat scroll padding-box" quarkly-title="Reviews-8">
+		<Section padding="80px 0 90px 0" md-padding="60px 0 60px 0" background="linear-gradient(180deg,rgba(42, 9, 113, 0.7) 0%,rgba(23, 23, 57, 0.7) 15.2%) 0 0 no-repeat,rgba(0, 0, 0, 0) url(https://uploads.quarkly.io/655ccff11d712a00232b9673/images/gettyimages-1403392120-1024x1024.jpg?v=2023-11-21T20:23:49.696Z) 50% 0/cover repeat scroll padding-box" quarkly-title="Reviews-8">
 			<Override slot="SectionContent" md-padding="0px 0 0px 0" />
 			<Box
 				min-width="100px"
